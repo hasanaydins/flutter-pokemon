@@ -4,11 +4,12 @@ A new Flutter application.
 
 
 ## Screenshots
+<img src="ss/ss1.png" width="300"> <img src="ss/ss2.png" width="300"> <img src="ss/ss3.png" width="300"> <img src="ss/ss4.png" width="300">
 
-![Image description](ss/ss1.png)
-![Image description](ss/ss2.png)
-![Image description](ss/ss3.png)
-![Image description](ss/ss4.png)
+
+
+
+
 
 ## Getting Started
 
