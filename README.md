@@ -1,6 +1,6 @@
 # flutter_pokemon
 
-Pokemon app writed with flutter.
+Pokemon app writed from scratch with flutter.
 design source: https://dribbble.com/shots/6540871-Pokedex-App
 
 ## Screenshots
